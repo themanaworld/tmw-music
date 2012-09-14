@@ -2,14 +2,26 @@
 The Mana World music files
 --------------------------
 
-(c) 2006-2009 The Mana World Development Team
+(c) 2006-2011 The Mana World Development Team
 Released under the same terms as The Mana World, the GNU GPL.
+
+In addition, "Ride of the Valkyries" is a public domain recording
+of a public domain song, taken from here:
+http://upload.wikimedia.org/wikipedia/commons/archive/2/29/20100528231037%21Richard_Wagner_-_Ride_of_the_Valkyries.ogg
 
 These music files are part of The Mana World, and released separately from the
 source release because of their size and because the set changes rarely.
 
 
 INSTALLATION
+
+The recommended way of getting music is to check "Download music" under the
+"Audio" tab of the Mana client.
+
+The original instructions are preserved below. They are somewhat outdated
+(TMW branding is now separate from the Mana client, cmake is now used)
+
+-----
 
 When you download these music files you have probably installed TMW either
 manually or using your distribution-specific packaging system. This means that
