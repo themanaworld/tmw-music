@@ -1,0 +1,34 @@
+The information in this file might be incomplete or incorrect,
+since the artists weren't tracked during the first years of the project.
+If you have knowledge about some information that's missing or that
+needs a correction, please contact the tmw development team.
+
+GPLv2: Licensed under GNU General Public License version2.
+http://www.gnu.org/licenses/gpl-2.0.html
+
+CC BY-SA 3.0: Licensed under Creative Commons Attribution-ShareAlike 3.0 Unported.
+http://creativecommons.org/licenses/by-sa/3.0/
+
+(????): Unknown contributors.
+
+# Music
+# Title / File                             | Composers/artists                  | License                  | Date Created: 
+"Trouble" /  Trouble.ogg                   | Jose. S & Dakota. D (Chicka-Maria) | GPLv2, cc-sa-3           | October 2013
+"Mystique Forest" /  Mystique Forest.ogg   | Jose. S & Dakota. D (Chicka-Maria) | GPLv2, cc-sa-3           | October 2013
+The Mana World - Peace.ogg                 | Doulos                             | GPLv2,                   | 2004
+The Mana World - Snow Village.ogg          | Aasif Chaudry                      | GPLv2, cc-sa-3           | 2008
+Chilling_Environment.ogg                   | (????)                             | GPLv2,                   | (????)
+Clouds Calling.ogg                         | (????)                             | GPLv2,                   | (????)
+Explorers-melody.ogg                       | (????)                             | GPLv2,                   | (????)
+Faith.ogg                                  | (????)                             | GPLv2,                   | (????)
+Feline Monstrosity - Graveyard.ogg         | (????)                             | GPLv2,                   | (????)
+finalman_and_yakslem-cavesong.ogg          | (????)                             | GPLv2,                   | (????)
+InquisitiveInn.ogg                         | Dakota. D (Chicka-Maria)           | GPLv2, cc-sa-3           | (????)
+Magick - Real.ogg                          | Aasif Chaudry                      | GPLv2, cc-sa-3           | 2003
+Night-Is-Calling.ogg                       | (????)                             | GPLv2,                   | (????)
+Ride of the Valkyries - from "Die Valkyrie" /
+Richard_Wagner_-_Ride_of_the_Valkyries.ogg | American Symphony Orchestra        | CC0                      | 1921
+The Mana World - The Forest.ogg            | (????)                             | GPLv2,                   | (????)
+White-Christmas.ogg                        | (????)                             | GPLv2,                   | (????)
+The Mana World - Dimonds Cove.ogg          | Aasif Chaudry                      | GPLv2, cc-sa-3           | 2008
+The Mana World - Ice Continent.ogg         | Aasif Chaudry                      | GPLv2, cc-sa-3           | 2008
