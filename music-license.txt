@@ -18,6 +18,7 @@ http://creativecommons.org/licenses/by-sa/3.0/
 The Mana World - Peace.ogg                 | Doulos                             | GPLv2,                   | 2004
 The Mana World - Snow Village.ogg          | Aasif Chaudry                      | GPLv2, cc-sa-3           | 2008
 Chilling_Environment.ogg                   | Jose. S & Dakota. D (Chicka-Maria) | GPLv2, cc-sa-3           | (????)
+Despair.ogg                                | Jose. S & Dakota. D (Chicka-Maria) | GPLv2, cc-sa-3           | (????)
 Clouds Calling.ogg                         | (????)                             | GPLv2,                   | (????)
 Explorers-melody.ogg                       | Jose. S & Dakota. D (Chicka-Maria) | GPLv2, cc-sa-3           | (????)
 Faith.ogg                                  | (????)                             | GPLv2,                   | (????)
