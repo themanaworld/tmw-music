@@ -1,46 +1,28 @@
---------------------------
-The Mana World music files
---------------------------
+THE MANA WORLD MUSIC FILES
+===============
 
-(c) 2006-2011 The Mana World Development Team
-Released under the same terms as The Mana World, the GNU GPL.
+These music files are part of The Mana World Project.
 
-In addition, "Ride of the Valkyries" is a public domain recording
-of a public domain song, taken from here:
-http://upload.wikimedia.org/wikipedia/commons/archive/2/29/20100528231037%21Richard_Wagner_-_Ride_of_the_Valkyries.ogg
-
-These music files are part of The Mana World, and released separately from the
-source release because of their size and because the set changes rarely.
+COPYING
+------------
+(c) 2006-2014 The Mana World Development Team
+Released under the same terms as The Mana World, the GNU GPL. Of which you 
+should have received a copy via downloading this package.
 
 
 INSTALLATION
+------------
+The recommended way of getting music in the ManaPlus client to work in 
+The Mana World is to check the "Download music" checkbox under the
+"Audio" tab of the Manaplus client.
 
-The recommended way of getting music is to check "Download music" under the
-"Audio" tab of the Mana client.
 
-The original instructions are preserved below. They are somewhat outdated
-(TMW branding is now separate from the Mana client, cmake is now used)
+AUTHORS
+------------
+Check the music-license.txt file for a list.
+In addition, "Ride of the Valkyries" is a public domain recording
+of a public domain song, taken from here:
 
------
+http://upload.wikimedia.org/wikipedia/commons/archive/2/29/20100528231037%21Ric
+hard_Wagner_-_Ride_of_the_Valkyries.ogg
 
-When you download these music files you have probably installed TMW either
-manually or using your distribution-specific packaging system. This means that
-there is a fixed location where TMW will look for its music files. This
-location is
-
-  $prefix/share/tmw/data/music
-
-When running ./configure without parameters, the default prefix is /usr/local.
-Most distributions will install TMW with the prefix /usr. You might also have
-installed TMW to your home directory (for example when you don't have root
-access), in which case the prefix would be something like /home/user. So
-depending on this prefix, you'll have to place the music files in one of the
-following:
-
-  /usr/local/share/tmw/data/music
-  /usr/share/tmw/data/music
-  /home/user/share/tmw/data/music
-
-But hopefully soon the tmwmusic package will actually also be available through
-your distribution-specific packaging system, in which case you don't have to be
-reading this!
