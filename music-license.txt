@@ -31,3 +31,4 @@ the-forest.ogg                           | (????)                               
 white-christmas.ogg                      | Jose S. & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (????)
 dimonds-cove.ogg                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
 ice-continent.ogg                        | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
+sail-away.ogg                            | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2014-04-23
