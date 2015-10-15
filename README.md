@@ -14,6 +14,6 @@ The recommended way of getting music in the ManaPlus client to work in The Mana 
 
 ## Authors
 
-Check the [music-license.md](music-license) file for a list.
+Check the [music-license](music-license.md) file for a list.
 
 In addition, "Ride of the Valkyries" is a public domain recording of a public domain song, taken from here: [Ride of the Valkyries.ogg](http://upload.wikimedia.org/wikipedia/commons/archive/2/29/20100528231037%21Richard_Wagner_-_Ride_of_the_Valkyries.ogg).
