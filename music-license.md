@@ -37,3 +37,4 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `ice-continent.ogg`                        | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
 `sail-away.ogg`                            | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2014-04-23
 `breaktime.ogg`                            | Kevin MacLeod (incompetech.com)           | GPLv2, cc-by-3           | (:grey_question:)
+`dreary-day.ogg`                           | Ledmitz                                   | GPLv2, cc-by-3           | (:grey_question:)
