@@ -31,3 +31,4 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `white-christmas.ogg`                      | Jose S. & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
 `dimonds-cove.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
 `sail-away.ogg`                            | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2014-04-23
+"Dramatic 4" / `Dramatic.ogg`              | Sei Mutsuki (PeriTune/peritune.com)       | cc-by-4                  | 2019
