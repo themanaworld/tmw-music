@@ -32,3 +32,6 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `dimonds-cove.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
 `sail-away.ogg`                            | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2014-04-23
 "Dramatic 4" / `Dramatic.ogg`              | Sei Mutsuki (PeriTune/peritune.com)       | cc-by-4                  | 2019
+"Ominous 3 Active" / `ominous3.ogg`        | Sei Mutsuki (PeriTune/peritune.com)       | cc-by-4                  | (:grey_question:)
+`ghoulish-fun.ogg`                         | Eric Matyas, Riqqi/Evol Online            | cc-by-4                  | 2019
+`epilogue.ogg`                             | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2020
