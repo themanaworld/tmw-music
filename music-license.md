@@ -22,7 +22,7 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `despair.ogg`                              | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
 `explorers-melody.ogg`                     | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
 `faith.ogg`                                | (:grey_question:)                         | GPLv2,                   | (:grey_question:)
-`graveyard.ogg`                            | Feline Monstrosity                        | GPLv2,                   | (:grey_question:)
+`graveyard.ogg`                            | Feline Monstrosity                        | GPLv2,                   | (2009)
 `cavesong.ogg`                             | finalman & yakslem                        | GPLv2,                   | (:grey_question:)
 `inquisitive-inn.ogg`                      | Dakota. D (Chicka-Maria)                  | GPLv2, cc-sa-3           | (:grey_question:)
 `magick-real.ogg`                          | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2003
@@ -42,3 +42,4 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `OverwhelmedUnderground.ogg`               | Ledmitz                                   | cc-sa-3                  | 2015
 `SewerAmbience.ogg`                        | Ledmitz                                   | cc-sa-3                  | 2018
 `Hurnscald.ogg`                            | Ledmitz                                   | cc-sa-3                  | 2020
+`Barbarians.ogg`                           | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
