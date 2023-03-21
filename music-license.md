@@ -35,6 +35,7 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `OverwhelmedUnderground.ogg`               | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
 `peace.ogg`                                | Doulos                                    | GPLv2,                   | 2004
 `sail-away.ogg`                            | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2014-04-23
+`SewerAmbience.ogg`                        | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
 `snow-village.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
 `the-forest.ogg`                           | (:grey_question:)                         | GPLv2,                   | (:grey_question:)
 `white-christmas.ogg`                      | Jose S. & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
