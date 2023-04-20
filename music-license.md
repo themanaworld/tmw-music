@@ -16,6 +16,7 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 
  Title / File | Composers / Artists | Licenses | Date Created
  ------------ |:-------------------:|:-------:|:-----------:
+`Barbarians.ogg`                           | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2012
 `cavesong.ogg`                             | finalman & yakslem                        | GPLv2,                   | (:grey_question:)
 `despair.ogg`                              | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
 `dimonds-cove.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
@@ -36,6 +37,7 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `peace.ogg`                                | Doulos                                    | GPLv2,                   | 2004
 `sail-away.ogg`                            | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2014-04-23
 `SewerAmbience.ogg`                        | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
+"Botcheck" `sirens.ogg`                    | Ledmitz                                   | GPLv2, cc-sa-3           | 2020
 `snow-village.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
 `the-forest.ogg`                           | (:grey_question:)                         | GPLv2,                   | (:grey_question:)
 `white-christmas.ogg`                      | Jose S. & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
