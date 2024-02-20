@@ -25,6 +25,7 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `DrearyDay.ogg`                            | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
 `epilogue.ogg`                             | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2020
 `explorers-melody.ogg`                     | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
+`Fireplace.ogg`                            | aunrea, Ledmitz                           | GPLv2, cc0               | 2019, 2020
 `faith.ogg`                                | (:grey_question:)                         | GPLv2,                   | (:grey_question:)
 `ghoulish-fun.ogg`                         | Eric Matyas, Riqqi/Evol Online            | cc-by-4                  | 2019
 `graveyard.ogg`                            | Feline Monstrosity                        | GPLv2,                   | (:grey_question:)
