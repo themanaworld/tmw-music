@@ -17,6 +17,7 @@ http://creativecommons.org/licenses/by-sa/3.0/).
  Title / File | Composers / Artists | Licenses | Date Created
  ------------ |:-------------------:|:-------:|:-----------:
 `Barbarians.ogg`                           | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2012
+`Birdsong.ogg`                             | Ledmitz                                   | GPLv2, cc-sa-3           | 2020
 `cavesong.ogg`                             | finalman & yakslem                        | GPLv2,                   | (:grey_question:)
 `despair.ogg`                              | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
 `dimonds-cove.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
