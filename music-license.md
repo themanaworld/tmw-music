@@ -21,6 +21,7 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `cavesong.ogg`                             | finalman & yakslem                        | GPLv2,                   | (:grey_question:)
 `despair.ogg`                              | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
 `dimonds-cove.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
+`Clouds_Calling.ogg`                       | Dariunas                                  | GPLv2, cc-sa-3           | 2006
 "Dramatic 4" / `Dramatic.ogg`              | Sei Mutsuki (PeriTune/peritune.com)       | cc-by-4                  | 2019
 `DrearyDay.ogg`                            | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
 `epilogue.ogg`                             | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2020
@@ -41,5 +42,5 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `SewerAmbience.ogg`                        | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
 "Botcheck" `sirens.ogg`                    | Ledmitz                                   | GPLv2, cc-sa-3           | 2020
 `snow-village.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
-`the-forest.ogg`                           | (:grey_question:)                         | GPLv2,                   | (:grey_question:)
+`the-forest.ogg`                           | Dariunas                                  | GPLv2, cc-sa-3           | 2006
 `white-christmas.ogg`                      | Jose S. & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
