@@ -16,31 +16,31 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 
  Title / File | Composers / Artists | Licenses | Date Created
  ------------ |:-------------------:|:-------:|:-----------:
-`Barbarians.ogg`                           | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2012
-`Birdsong.ogg`                             | Ledmitz                                   | GPLv2, cc-sa-3           | 2020
+`barbarians.ogg`                           | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2012
+`birdsong.ogg`                             | Ledmitz                                   | GPLv2, cc-sa-3           | 2020
 `cavesong.ogg`                             | finalman & yakslem                        | GPLv2,                   | (:grey_question:)
 `despair.ogg`                              | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
 `dimonds-cove.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
-`Clouds_Calling.ogg`                       | Dariunas                                  | GPLv2, cc-sa-3           | 2006
-"Dramatic 4" / `Dramatic.ogg`              | Sei Mutsuki (PeriTune/peritune.com)       | cc-by-4                  | 2019
-`DrearyDay.ogg`                            | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
+`clouds_calling.ogg`                       | Dariunas                                  | GPLv2, cc-sa-3           | 2006
+"Dramatic 4" / `dramatic.ogg`              | Sei Mutsuki (PeriTune/peritune.com)       | cc-by-4                  | 2019
+`dreary_day.ogg`                           | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
 `epilogue.ogg`                             | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2020
-`explorers-melody.ogg`                     | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
-`Fireplace.ogg`                            | aunrea, Ledmitz                           | GPLv2, cc0               | 2019, 2020
+`explorers_melody.ogg`                     | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
+`fireplace.ogg`                            | aunrea, Ledmitz                           | GPLv2, cc0               | 2019, 2020
 `faith.ogg`                                | (:grey_question:)                         | GPLv2,                   | (:grey_question:)
-`ghoulish-fun.ogg`                         | Eric Matyas, Riqqi/Evol Online            | cc-by-4                  | 2019
+`ghoulish_fun.ogg`                         | Eric Matyas, Riqqi/Evol Online            | cc-by-4                  | 2019
 `graveyard.ogg`                            | Feline Monstrosity                        | GPLv2,                   | (:grey_question:)
-`InMyHeart.ogg`                            | Dakota. D (Chicka-Maria)                  | GPLv2, cc-sa-3           | 2006
-`inquisitive-inn.ogg`                      | Dakota. D (Chicka-Maria)                  | GPLv2, cc-sa-3           | (:grey_question:)
+`in_my_heart.ogg`                          | Dakota. D (Chicka-Maria)                  | GPLv2, cc-sa-3           | 2006
+`inquisitive_inn.ogg`                      | Dakota. D (Chicka-Maria)                  | GPLv2, cc-sa-3           | (:grey_question:)
 `magick-real.ogg`                          | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2003
-"Mystique Forest" / `mystique-forest.ogg`  | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2013
-`night-is-calling.ogg`                     | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
-"Ominous 3 Active" / `ominous3.ogg`        | Sei Mutsuki (PeriTune/peritune.com)       | cc-by-4                  | (:grey_question:)
-`OverwhelmedUnderground.ogg`               | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
+`mystique_forest.ogg`                      | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2013
+`night_is_calling.ogg`                     | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
+"Ominous 3 Active" / `ominous_3.ogg`       | Sei Mutsuki (PeriTune/peritune.com)       | cc-by-4                  | (:grey_question:)
+`overwhelmed_underground.ogg`              | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
 `peace.ogg`                                | Doulos                                    | GPLv2,                   | 2004
-`sail-away.ogg`                            | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2014-04-23
-`SewerAmbience.ogg`                        | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
+`sail_away.ogg`                            | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2014-04-23
+`sewer_ambience.ogg`                       | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
 `sirens.ogg`                               | Ledmitz                                   | GPLv2, cc-sa-3           | 2020
-`snow-village.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
-`the-forest.ogg`                           | Dariunas                                  | GPLv2, cc-sa-3           | 2006
-`white-christmas.ogg`                      | Jose S. & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
+`snow_village.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
+`the_forest.ogg`                           | Dariunas                                  | GPLv2, cc-sa-3           | 2006
+`white_christmas.ogg`                      | Jose S. & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
