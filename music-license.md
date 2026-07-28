@@ -30,7 +30,7 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `faith.ogg`                                | (:grey_question:)                         | GPLv2,                   | (:grey_question:)
 `ghoulish-fun.ogg`                         | Eric Matyas, Riqqi/Evol Online            | cc-by-4                  | 2019
 `graveyard.ogg`                            | Feline Monstrosity                        | GPLv2,                   | (:grey_question:)
-`In my Heart.ogg`                          | Dakota. D (Chicka-Maria)                  | GPLv2, cc-sa-3           | 2006
+`InMyHeart.ogg`                            | Dakota. D (Chicka-Maria)                  | GPLv2, cc-sa-3           | 2006
 `inquisitive-inn.ogg`                      | Dakota. D (Chicka-Maria)                  | GPLv2, cc-sa-3           | (:grey_question:)
 `magick-real.ogg`                          | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2003
 "Mystique Forest" / `mystique-forest.ogg`  | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2013
@@ -40,7 +40,7 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `peace.ogg`                                | Doulos                                    | GPLv2,                   | 2004
 `sail-away.ogg`                            | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2014-04-23
 `SewerAmbience.ogg`                        | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
-"Botcheck" `sirens.ogg`                    | Ledmitz                                   | GPLv2, cc-sa-3           | 2020
+`sirens.ogg`                               | Ledmitz                                   | GPLv2, cc-sa-3           | 2020
 `snow-village.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
 `the-forest.ogg`                           | Dariunas                                  | GPLv2, cc-sa-3           | 2006
 `white-christmas.ogg`                      | Jose S. & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
