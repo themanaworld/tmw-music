@@ -20,7 +20,7 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `birdsong.ogg`                             | Ledmitz                                   | GPLv2, cc-sa-3           | 2020
 `cavesong.ogg`                             | finalman & yakslem                        | GPLv2,                   | (:grey_question:)
 `despair.ogg`                              | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
-`dimonds-cove.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
+`dimonds_cove.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
 `clouds_calling.ogg`                       | Dariunas                                  | GPLv2, cc-sa-3           | 2006
 "Dramatic 4" / `dramatic.ogg`              | Sei Mutsuki (PeriTune/peritune.com)       | cc-by-4                  | 2019
 `dreary_day.ogg`                           | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
