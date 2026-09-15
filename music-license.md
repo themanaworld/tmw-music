@@ -44,3 +44,4 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `snow-village.ogg`                         | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2008
 `the-forest.ogg`                           | Dariunas                                  | GPLv2, cc-sa-3           | 2006
 `white-christmas.ogg`                      | Jose S. & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
+`win.ogg`                                  | Ledmitz                                   | GPLv2, cc-sa-3           | 2017
