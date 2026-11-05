@@ -35,6 +35,7 @@ http://creativecommons.org/licenses/by-sa/3.0/).
 `magick-real.ogg`                          | Aasif Chaudry                             | GPLv2, cc-sa-3           | 2003
 "Mystique Forest" / `mystique-forest.ogg`  | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | 2013
 `night-is-calling.ogg`                     | Jose. S & Dakota. D (Chicka-Maria)        | GPLv2, cc-sa-3           | (:grey_question:)
+`none.ogg`                                 | Ledmitz                                   | cc0                      | 2026
 "Ominous 3 Active" / `ominous3.ogg`        | Sei Mutsuki (PeriTune/peritune.com)       | cc-by-4                  | (:grey_question:)
 `OverwhelmedUnderground.ogg`               | Ledmitz                                   | GPLv2, cc-sa-3           | 2018
 `peace.ogg`                                | Doulos                                    | GPLv2,                   | 2004
